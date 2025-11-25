@@ -1,0 +1,5 @@
+case_id,input_text,expected_top_condition,expected_severity,notes
+1,"Patient with fever and cough for 2 days","Upper respiratory infection","stable","URI typical"
+2,"Sudden severe chest pain, sweating","Acute coronary syndrome","emergency","red flag"
+3,"Mild abdominal pain and diarrhea for 1 day","Viral gastroenteritis","stable","common"
+4,"Shortness of breath on minimal exertion","Pulmonary embolism","emergency","red flag"
